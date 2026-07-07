@@ -925,6 +925,7 @@ p{
 
         position:relative;
 
+
     }
 
     .nav-links li a{
@@ -956,7 +957,7 @@ p{
 
         position:absolute;
 
-        top:40px;
+        top:100%;
 
         left:0;
 
@@ -967,6 +968,8 @@ p{
         border-radius:8px;
 
         overflow:hidden;
+
+        z-index: 999;
 
     }
 
