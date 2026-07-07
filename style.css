@@ -273,6 +273,9 @@ body{
     color:#d8e2ec;
 
 }
+p{
+  margin-bottom: 1.5rem;
+}
 /* ====================================
             SKILLS SECTION
 ==================================== */
@@ -519,6 +522,7 @@ body{
 
     gap:50px;
 
+
 }
 
 /* Contact Information */
@@ -529,6 +533,36 @@ body{
 
 }
 
+.section-title{
+
+  text-align: center;
+
+  gap: 1rem;
+}
+
+.section-title h2{
+
+  font-size: 2.3rem;
+
+  color: #22D3EE;
+
+  margin-bottom: 20px;
+}
+
+.section-title p{
+
+  line-height: 1.8;
+
+  color:#F1F5F9; 
+
+  max-width: 650px;
+
+  margin: auto;
+
+  margin-bottom: 25px;
+  
+}
+
 .contact-info h3{
 
     font-size:2rem;
@@ -536,6 +570,8 @@ body{
     color:#22D3EE;
 
     margin-bottom:20px;
+
+    margin-top: 20px;
 
 }
 
