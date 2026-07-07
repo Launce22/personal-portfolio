@@ -1,0 +1,20 @@
+Prompts used for my Personal Portfolio webpage
+
+Prompt1
+Hi ChatGPT, I want you to build me a navigation bar for a personal portfolio website, the navigation bar should have my name “udeigwe Ifeanyi C” as the logo on the top left-hand side. It should be a mobile first design with a hamburger on the top right side of the nav bar when viewed on smaller devices. The navigation bar will have links to the different sections of the webpage, and the links comprise Home, About, Skills, Projects, Contact. The Skills should have a dropdown that contains HTML, CSS, GIT & GITHUB, TAILWIND, these links should only be visible on large devices. Use only html and css in designing this and the IDE should be visual studio code.
+
+Prompt2
+Going forward with the building of a personal portfolio website, I want you to add a hero section that uses a gradient to blend in an image that will be side by side a h1 with a captivating caption. There should be a call to action button under the h1. 
+The color palette for this design should be #OF172A for background, use #F1F5F9 for the text and then use #22D3EE for the accent. One distinctive color for CTAs, links, highlights. Note, I'm building an ATS friendly webpage. Don't forget to use only html and css, IDE remains visual studio code
+
+Prompt3
+Add an "About section”. The about section should have a h2 and a paragraph of text that should tell a short story about me and my journey towards learning and becoming efficient with html, CSS, tailwind and JavaScript. The h2 and paragraph of text should stay side by side an image of me in a box with the box having a border radius. Maintain the color palette used in the hero section. Do not forget to build with html and css only using visual studio code as IDE
+
+Prompt4
+The project section should have images of the projects worked on, basically on html, css and tailwind. Continue with the same design language
+
+Prompt5
+Add a contact section where prospective clients can make enquires and as well drop their information’s, we will still maintain our design language
+
+Final Prompt
+Lets finish up our personal portfolio project with a footer. The footer is going to contain all social media handles and it should have the same color palette as the ones we've been using.
